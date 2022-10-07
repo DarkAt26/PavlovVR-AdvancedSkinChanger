@@ -1,7 +1,7 @@
 # PavlovVR-SkinChanger
 WIP
 
-
+https://github.com/DarkAt26/PavlovVR-SkinChanger/blob/main/README.md#full-list-of-changeable-objects
 ## Features
 ## Installation & Update
 ## Plans & Issues
