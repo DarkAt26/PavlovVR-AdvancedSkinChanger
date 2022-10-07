@@ -1,5 +1,6 @@
 # PavlovVR-SkinChanger
 
-## Features
-## Installation
-## Known Issues
+## [Features]
+## [Installation]
+## [Issues]
+## [Changelogs]
