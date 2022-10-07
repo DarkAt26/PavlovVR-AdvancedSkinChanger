@@ -3,4 +3,5 @@
 ## [Features]
 ## [Installation]
 ## [Issues]
+## [Ideas]
 ## [Changelogs]
