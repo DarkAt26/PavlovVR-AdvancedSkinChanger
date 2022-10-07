@@ -1,1 +1,1 @@
-You can find all information here: [Click ME!](https://github.com/DarkAt26/PavlovVR-SkinChanger/wiki)
+You can find all informations here: [Click ME!](https://github.com/DarkAt26/PavlovVR-SkinChanger/wiki)
