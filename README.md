@@ -2,7 +2,7 @@
 WIP
 
 https://github.com/DarkAt26/PavlovVR-SkinChanger/blob/main/README.md#full-list-of-changeable-objects
-## Features
+## [Features](https://github.com/DarkAt26/PavlovVR-SkinChanger/blob/main/README.md#full-list-of-changeable-objects)
 ## Installation & Update
 ## Plans & Issues
 ## Changelogs
